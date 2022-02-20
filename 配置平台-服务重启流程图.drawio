@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T14:04:34.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="larWWYjgkWTKJKQhMKlC" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T14:15:02.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="oF8Q_yFCp5sMa2wmYrf2" version="16.6.1" type="github">
   <diagram id="w_WLqxgE0yqcpI3d3WtX" name="服务重启流程图">
     <mxGraphModel dx="2267" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,14 +15,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lH5ghisSR6bQVYQZglo1-47" value="4、提示用户是否进行重启&lt;br&gt;如果当前未重启保存待&lt;br&gt;从起容器信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=15;exitX=0.125;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lH5ghisSR6bQVYQZglo1-3" target="lH5ghisSR6bQVYQZglo1-38">
-          <mxGeometry x="-0.1071" y="10" relative="1" as="geometry">
+        <mxCell id="lH5ghisSR6bQVYQZglo1-47" value="5、提示用户是否进行重启&lt;br&gt;如果当前未重启保存待&lt;br&gt;从起容器信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=15;exitX=0.125;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lH5ghisSR6bQVYQZglo1-3" target="lH5ghisSR6bQVYQZglo1-38">
+          <mxGeometry x="-0.108" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="90" />
               <mxPoint x="10" y="90" />
               <mxPoint x="10" y="240" />
             </Array>
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lH5ghisSR6bQVYQZglo1-48" value="5、通过portaiiner API接口&lt;br&gt;进行容器的重启，使得配置&lt;br&gt;生效" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=15;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH5ghisSR6bQVYQZglo1-3">
@@ -126,6 +126,19 @@
         <mxCell id="lH5ghisSR6bQVYQZglo1-43" value="1、服务启动，通过脚本向配置中心&lt;br&gt;上交该容器依赖的配置文件信息和&lt;br&gt;容器信息包括容器名，容器ID等&lt;br&gt;基础信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;" vertex="1" connectable="0" parent="lH5ghisSR6bQVYQZglo1-42">
           <mxGeometry x="0.281" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lH5ghisSR6bQVYQZglo1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=15;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lH5ghisSR6bQVYQZglo1-3" target="lH5ghisSR6bQVYQZglo1-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="70" />
+              <mxPoint x="560" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lH5ghisSR6bQVYQZglo1-51" value="4、通过上报的容器信息与&lt;br&gt;portainer上在线的容器&lt;br&gt;进行对比，去掉脏数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;" vertex="1" connectable="0" parent="lH5ghisSR6bQVYQZglo1-50">
+          <mxGeometry x="-0.0487" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
