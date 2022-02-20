@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T14:36:08.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="egmj2lmCtsLvXFef-YAB" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T16:13:09.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="7Mab5H3w9ZOgNrAanmTP" version="16.6.1" type="github">
   <diagram id="w_WLqxgE0yqcpI3d3WtX" name="服务重启流程图">
-    <mxGraphModel dx="2374" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N2Gqym55cOZ-n5wPTVwe-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="N2Gqym55cOZ-n5wPTVwe-5" value="" style="group;sketch=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="440" y="670" width="700" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lH5ghisSR6bQVYQZglo1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Verdana;" parent="N2Gqym55cOZ-n5wPTVwe-5" vertex="1">
@@ -144,6 +144,13 @@
         <mxCell id="lH5ghisSR6bQVYQZglo1-36" value="docker容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Verdana;fontSize=11;" parent="lH5ghisSR6bQVYQZglo1-34" vertex="1">
           <mxGeometry x="3" y="17" width="100" as="geometry" />
         </mxCell>
+        <mxCell id="0hCmhcpMl_sSOAtzHnre-1" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hCmhcpMl_sSOAtzHnre-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="430" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0hCmhcpMl_sSOAtzHnre-6" value="未命名图层" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
