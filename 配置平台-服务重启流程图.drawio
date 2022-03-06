@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T16:58:29.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="7z1Zh9Mlo1BeeSN-53os" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-06T17:15:56.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="eGKJsJfpIkYebxZMOuB_" version="16.6.3" type="github" pages="4">
   <diagram id="w_WLqxgE0yqcpI3d3WtX" name="服务重启流程图">
     <mxGraphModel dx="1987" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,11 @@
         </mxCell>
         <mxCell id="CgoHBH6TokZNexpMa-iC-4" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="CgoHBH6TokZNexpMa-iC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjWhWeNISjtse7EZsDsM-17" value="读取初始化数据库和&lt;br&gt;数据库升级脚本执行&lt;br&gt;数据的初始化和升级" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Ma Shan Zheng;" vertex="1" connectable="0" parent="CgoHBH6TokZNexpMa-iC-4">
+          <mxGeometry x="-0.0454" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yjWhWeNISjtse7EZsDsM-9" value="从nacos读取数据库初始化脚本和&lt;br style=&quot;font-size: 16px;&quot;&gt;数据库升级脚本，完成对业务数据&lt;br style=&quot;font-size: 16px;&quot;&gt;库的初始化和脚本升级" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.242;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="yjWhWeNISjtse7EZsDsM-5">
           <mxGeometry x="0.2613" y="-10" relative="1" as="geometry">
