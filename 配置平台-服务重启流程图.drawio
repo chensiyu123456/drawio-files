@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T07:30:08.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="5jOEpFQvNTObwq0wUacV" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-15T07:31:07.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="eb051du3JoRwzKyMhyEU" version="16.6.4" type="github" pages="4">
   <diagram id="w_WLqxgE0yqcpI3d3WtX" name="服务重启流程图">
     <mxGraphModel dx="1993" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,6 +274,11 @@
         </mxCell>
         <mxCell id="w6ue0_b44oE_nx133fVt-6" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-4" target="w6ue0_b44oE_nx133fVt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-4" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;进行服务器信息管理，数据库信&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;息管理需要校验配置项管理&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 15px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;http/json&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="w6ue0_b44oE_nx133fVt-6">
+          <mxGeometry x="-0.2011" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yjWhWeNISjtse7EZsDsM-16" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;endArrow=classic;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-4" target="CgoHBH6TokZNexpMa-iC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
