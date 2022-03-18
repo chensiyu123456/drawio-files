@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:10:59.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="kwnO2Zi_1dLH-Mwv6j6B" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-18T01:33:28.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="i32esLsm6WpQ4nJ3XZ8O" version="17.1.2" type="github" pages="5">
   <diagram id="w_WLqxgE0yqcpI3d3WtX" name="服务重启流程图">
-    <mxGraphModel dx="1993" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJJ4YXmEQ5T2xYqGiZR_" name="配置平台配置更新流程图">
-    <mxGraphModel dx="1560" dy="1174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="1368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Z_pRoB842zU9UHHReNdx-0" />
         <mxCell id="Z_pRoB842zU9UHHReNdx-1" parent="Z_pRoB842zU9UHHReNdx-0" />
@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
-    <mxGraphModel dx="2963" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2457" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="w6ue0_b44oE_nx133fVt-0" />
         <mxCell id="w6ue0_b44oE_nx133fVt-1" parent="w6ue0_b44oE_nx133fVt-0" />
@@ -275,7 +275,7 @@
         <mxCell id="w6ue0_b44oE_nx133fVt-6" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-4" target="w6ue0_b44oE_nx133fVt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-4" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;进行服务器信息管理，数据库信&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;息管理需要校验配置项管理&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 15px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;http/json&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="w6ue0_b44oE_nx133fVt-6">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-4" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;进行服务器信息管理，数据库信&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;息管理需要校验配置项管理&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 15px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;http/json&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Architects Daughter;" parent="w6ue0_b44oE_nx133fVt-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2011" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -283,7 +283,7 @@
         <mxCell id="yjWhWeNISjtse7EZsDsM-16" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;endArrow=classic;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-4" target="CgoHBH6TokZNexpMa-iC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-3" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;通过nacos后端API&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;完成nacos管理操作&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;http/json&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="yjWhWeNISjtse7EZsDsM-16">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-3" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;通过nacos后端API&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;完成nacos管理操作&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 17px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;http/json&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" parent="yjWhWeNISjtse7EZsDsM-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1105" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -296,7 +296,7 @@
         <mxCell id="w6ue0_b44oE_nx133fVt-8" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=16;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="w6ue0_b44oE_nx133fVt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-5" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;业务数据存储及查询&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="w6ue0_b44oE_nx133fVt-8">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-5" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;业务数据存储及查询&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Architects Daughter;" parent="w6ue0_b44oE_nx133fVt-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0366" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -331,18 +331,18 @@
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-1" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="PyyiJZqeHASOfHkt7WAJ-0">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-1" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="PyyiJZqeHASOfHkt7WAJ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-2" value="当移动端有配置更新后&lt;br&gt;通过实时通知服务将配置&lt;br&gt;更新项推送给移动端&lt;br&gt;ws协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="PyyiJZqeHASOfHkt7WAJ-1">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-2" value="当移动端有配置更新后&lt;br&gt;通过实时通知服务将配置&lt;br&gt;更新项推送给移动端&lt;br&gt;ws协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" parent="PyyiJZqeHASOfHkt7WAJ-1" vertex="1" connectable="0">
           <mxGeometry x="0.0024" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-8" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=36;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="PyyiJZqeHASOfHkt7WAJ-7">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-8" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=36;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="w6ue0_b44oE_nx133fVt-1" source="w6ue0_b44oE_nx133fVt-5" target="PyyiJZqeHASOfHkt7WAJ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-9" value="&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;通过portainer拿到容器id，通过&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;docker api完成对中间件的配置&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;拉取和容器重启&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;fontFamily=Ma Shan Zheng;" vertex="1" connectable="0" parent="PyyiJZqeHASOfHkt7WAJ-8">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-9" value="&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;通过portainer拿到容器id，通过&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;docker api完成对中间件的配置&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;拉取和容器重启&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=36;fontFamily=Ma Shan Zheng;" parent="PyyiJZqeHASOfHkt7WAJ-8" vertex="1" connectable="0">
           <mxGeometry x="0.0088" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -384,15 +384,15 @@
           <mxGeometry x="990" y="490" width="250" height="237" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="实时通知服务" c4Type="Software System" c4Description="实时通知服务" label="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="PyyiJZqeHASOfHkt7WAJ-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#0050ef;align=center;arcSize=10;strokeColor=#001DBC;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelBorderColor=none;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=21;fontColor=#000000;" vertex="1" parent="w6ue0_b44oE_nx133fVt-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#0050ef;align=center;arcSize=10;strokeColor=#001DBC;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelBorderColor=none;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=21;fontColor=#000000;" parent="w6ue0_b44oE_nx133fVt-1" vertex="1">
             <mxGeometry x="-500" y="370" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="PyyiJZqeHASOfHkt7WAJ-6" value="&lt;font style=&quot;font-size: 36px&quot;&gt;配置平台-容器图&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=17;" vertex="1" parent="w6ue0_b44oE_nx133fVt-1">
+        <mxCell id="PyyiJZqeHASOfHkt7WAJ-6" value="&lt;font style=&quot;font-size: 36px&quot;&gt;配置平台-容器图&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=17;" parent="w6ue0_b44oE_nx133fVt-1" vertex="1">
           <mxGeometry x="40" y="-130" width="350" height="30" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="中间件（容器）" c4Type="Software System" c4Description="类似redis，activemq等" label="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="PyyiJZqeHASOfHkt7WAJ-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#0050ef;align=center;arcSize=10;strokeColor=#001DBC;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelBorderColor=none;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=21;fontColor=#000000;" vertex="1" parent="w6ue0_b44oE_nx133fVt-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#0050ef;align=center;arcSize=10;strokeColor=#001DBC;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];labelBorderColor=none;sketch=1;hachureGap=4;fontFamily=Ma Shan Zheng;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMa%2BShan%2BZheng;fontSize=21;fontColor=#000000;" parent="w6ue0_b44oE_nx133fVt-1" vertex="1">
             <mxGeometry x="-500" y="650" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
@@ -1166,6 +1166,14 @@
             <mxPoint x="20" y="256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CmTfPCvp9ZRnX1Qb7Xpq" name="配置平台核心流程">
+    <mxGraphModel dx="1160" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qNm4dm9bm4kT0YVFBXdR-0" />
+        <mxCell id="qNm4dm9bm4kT0YVFBXdR-1" parent="qNm4dm9bm4kT0YVFBXdR-0" />
       </root>
     </mxGraphModel>
   </diagram>
