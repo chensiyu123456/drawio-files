@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:55:36.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="UKAvhA0GliSfIMrP1ZOA" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:55:55.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VV1qrNnlUUbomXbzYrT4" version="17.1.3" type="github" pages="2">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="警情回访C4模型">
     <mxGraphModel dx="2409" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         </object>
         <object placeholders="1" c4Name="NLP" c4Type="Software System" c4Description="提供对文本，对附件的内容进行提取和结构的能力" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Ow0wWllpzu327Se37aVk-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#000000;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-            <mxGeometry x="2492" y="633" width="240" height="120" as="geometry" />
+            <mxGeometry x="2538" y="642" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="SMP" c4Type="Software System" c4Description="对组织机构，人员，岗位，应用，数据结构等基础资源,字典等基础信息进行管理，并通过API提供对外服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Ow0wWllpzu327Se37aVk-14">
@@ -141,12 +141,12 @@
         </object>
         <object placeholders="1" c4Name="文件服务" c4Type="Software System" c4Description="提供附件的上传浏览，管理功能，并提供管理API给业务系统，文件的本身管理由文件系统负责" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Ow0wWllpzu327Se37aVk-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-            <mxGeometry x="2488" y="334" width="240" height="120" as="geometry" />
+            <mxGeometry x="2534" y="343" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="实时通知服务" c4Type="Software System" c4Description="提供标准接口，供业务调用，并将业务的通知写入MQ，使用改成解耦业务和具体的消息中间件，提供websocket服务，并维护ws生命周期，同时连接mq服务，消费mq的消息" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Ow0wWllpzu327Se37aVk-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=16;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;" vertex="1" parent="1">
-            <mxGeometry x="2492" y="956" width="240" height="120" as="geometry" />
+            <mxGeometry x="2538" y="965" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="Ow0wWllpzu327Se37aVk-36" value="图例：" style="align=left;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;spacingTop=-8;resizable=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
