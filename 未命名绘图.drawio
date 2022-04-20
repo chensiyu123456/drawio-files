@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T15:57:17.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="yQBfX18tEdWzzBsUZC2W" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-20T01:15:05.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="P-wWl5j2RsL2pPoEhOV7" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2812" dy="2052" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3173,7 +3173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vgiGmxCKtr2Fx0k4SEOM" name="区域警务合作ER图">
-    <mxGraphModel dx="4343" dy="3377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3004" dy="2590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3513,7 +3513,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhAK_cvmhvfZC2ibe-gS-927" value="&quot;数据是否有效(0:无效,1:有效)&quot;  NUMBER(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-925">
+        <mxCell id="jhAK_cvmhvfZC2ibe-gS-927" value="数据是否有效(0:无效,1:有效) NUMBER(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-925">
           <mxGeometry x="30" width="246" height="30" as="geometry">
             <mxRectangle width="246" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5140,7 +5140,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1304" value="&quot;密级代码(字典):1-内部,2-秘密&quot; DATE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1302">
+        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1304" value="密级代码(字典):1-内部,2-秘密 DATE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1302">
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5179,7 +5179,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1313" value="&quot;接收状态(字典):-1-待接收,0-删除,1-已接收&quot; VARCHAR(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1311">
+        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1313" value="接收状态(字典):-1-待接收,0-删除,1-已接收 VARCHAR(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1311">
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5205,7 +5205,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1319" value="&quot;操作(接收/删除)时间&quot;        DATE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1317">
+        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1319" value="操作(接收/删除)时间 DATE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1317">
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5374,7 +5374,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1358" value="&quot;数据是否有效(0:无效,1:有效)&quot;  NUMBER(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1356">
+        <mxCell id="jhAK_cvmhvfZC2ibe-gS-1358" value="数据是否有效(0:无效,1:有效) NUMBER(1)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;align=left;top=0;left=0;bottom=0;right=0;spacingLeft=6;" vertex="1" parent="jhAK_cvmhvfZC2ibe-gS-1356">
           <mxGeometry x="30" width="290" height="30" as="geometry">
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
