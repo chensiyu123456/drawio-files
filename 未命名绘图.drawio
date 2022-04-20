@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T14:03:30.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3RjRg-YIBfVWanD-Q7Bf" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-20T14:12:03.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="u_gd6z_sQwh_YLX3RVpF" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,7 +632,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 15px&quot;&gt;系统接收情报接报数据&lt;br&gt;（写入日常信息表）&lt;/font&gt;" tooltip="在日常基础信息表中写入数据，并在状态信息表中写入该事件的状态信息，状态为待接收" id="7-34vnk0uejuGuFCaelN-72">
+        <UserObject label="&lt;font style=&quot;font-size: 15px&quot;&gt;系统接收情报接报数据&lt;br&gt;（写入日常信息表）&lt;/font&gt;" tooltip="在日常基础信息表中写入数据，并在接收信息表中写入一条数据，状态为待接收" id="7-34vnk0uejuGuFCaelN-72">
           <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
             <mxGeometry x="75" y="202" width="157" height="62" as="geometry" />
           </mxCell>
