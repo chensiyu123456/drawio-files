@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T10:03:50.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="v_7xv5QDHcjvhAygFHsH" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-20T13:47:43.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="lhbBdWNmwEISebiDyBJb" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riQthwZXy0yVwxQMupO3" name="区域警务合作一体化指挥信息平台-流程图">
-    <mxGraphModel dx="2275" dy="1501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="1580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="krPjROnrd2UijMS6lK_2-0" />
         <mxCell id="krPjROnrd2UijMS6lK_2-1" style="" parent="krPjROnrd2UijMS6lK_2-0" />
@@ -406,198 +406,223 @@
         <mxCell id="krPjROnrd2UijMS6lK_2-102" style="edgeStyle=none;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;jumpStyle=arc;" parent="krPjROnrd2UijMS6lK_2-2" source="krPjROnrd2UijMS6lK_2-87" target="krPjROnrd2UijMS6lK_2-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-13" style="edgeStyle=entityRelationEdgeStyle;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-0" target="YHHSH4uwDVHaBNSBB1Eg-2">
+        <mxCell id="7-34vnk0uejuGuFCaelN-26" value="未命名图层" parent="krPjROnrd2UijMS6lK_2-0" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-27" style="edgeStyle=entityRelationEdgeStyle;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-29" target="7-34vnk0uejuGuFCaelN-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-14" value="2、写接收信息，&lt;br&gt;写为待接收状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-13">
+        <mxCell id="7-34vnk0uejuGuFCaelN-28" value="2、写接收信息，&lt;br&gt;写为待接收状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-27">
           <mxGeometry x="-0.3279" y="1" relative="1" as="geometry">
             <mxPoint x="21" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-0" value="日常基础信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="888" y="184" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-29" value="日常基础信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="794" y="1520" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-48" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-0">
+        <mxCell id="7-34vnk0uejuGuFCaelN-30" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-49" value="6、删除日常表中的数据&lt;br&gt;避免重复保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-48">
+        <mxCell id="7-34vnk0uejuGuFCaelN-31" value="6、删除日常表中的数据&lt;br&gt;避免重复保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-30">
           <mxGeometry x="-0.0217" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-51" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-2">
+        <mxCell id="7-34vnk0uejuGuFCaelN-32" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-52" value="7、删除接收信息表&lt;br&gt;在第2步中写入的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-51">
+        <mxCell id="7-34vnk0uejuGuFCaelN-33" value="7、删除接收信息表&lt;br&gt;在第2步中写入的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-32">
           <mxGeometry x="0.1449" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-54" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-3">
+        <mxCell id="7-34vnk0uejuGuFCaelN-34" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-55" value="8、删除第3步中&lt;br&gt;写入的状态信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-54">
+        <mxCell id="7-34vnk0uejuGuFCaelN-35" value="8、删除第3步中&lt;br&gt;写入的状态信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-34">
           <mxGeometry x="0.0388" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-56" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-3">
+        <mxCell id="7-34vnk0uejuGuFCaelN-36" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1801" y="491" />
+              <mxPoint x="1707" y="1827" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-57" value="9、写入新的状态信息&lt;br&gt;基础新id为线索的id&lt;br&gt;状态为未办理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-56">
+        <mxCell id="7-34vnk0uejuGuFCaelN-37" value="9、写入新的状态信息&lt;br&gt;基础新id为线索的id&lt;br&gt;状态为未办理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-36">
           <mxGeometry x="0.5147" y="-4" relative="1" as="geometry">
             <mxPoint x="1" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-0" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-6">
+        <mxCell id="7-34vnk0uejuGuFCaelN-38" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-1" value="10、记录流程信息，比如某某在某个&lt;br&gt;时间点完成转线索操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-0">
+        <mxCell id="7-34vnk0uejuGuFCaelN-39" value="10、记录流程信息，比如某某在某个&lt;br&gt;时间点完成转线索操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-38">
           <mxGeometry x="-0.0318" relative="1" as="geometry">
             <mxPoint x="7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-2" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-7">
+        <mxCell id="7-34vnk0uejuGuFCaelN-40" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-5" value="12、新增人员，记录人&lt;br&gt;员信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-2">
+        <mxCell id="7-34vnk0uejuGuFCaelN-41" value="12、新增人员，记录人&lt;br&gt;员信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-40">
           <mxGeometry x="-0.121" y="-4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-3" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="YHHSH4uwDVHaBNSBB1Eg-4">
+        <mxCell id="7-34vnk0uejuGuFCaelN-42" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-4" value="11、增加附件&amp;nbsp;&lt;br&gt;记录服务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-3">
+        <mxCell id="7-34vnk0uejuGuFCaelN-43" value="11、增加附件&amp;nbsp;&lt;br&gt;记录服务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-42">
           <mxGeometry x="-0.1502" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-7" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-1" target="7-34vnk0uejuGuFCaelN-6">
+        <mxCell id="7-34vnk0uejuGuFCaelN-44" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-46" target="7-34vnk0uejuGuFCaelN-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-8" value="13、调用NLP服务后&lt;br&gt;获得结构化信息，将&lt;br&gt;nlp服务分析的结果&lt;br&gt;入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-7">
+        <mxCell id="7-34vnk0uejuGuFCaelN-45" value="13、调用NLP服务后&lt;br&gt;获得结构化信息，将&lt;br&gt;nlp服务分析的结果&lt;br&gt;入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-44">
           <mxGeometry x="-0.1451" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-1" value="线索基础信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1382" y="596" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-46" value="线索基础信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1288" y="1932" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-16" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-2" target="YHHSH4uwDVHaBNSBB1Eg-3">
+        <mxCell id="7-34vnk0uejuGuFCaelN-47" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-49" target="7-34vnk0uejuGuFCaelN-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1665" y="219.25" as="targetPoint" />
+            <mxPoint x="1571" y="1555.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-37" value="3、写入状态信息&lt;br&gt;表状态为待接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-16">
+        <mxCell id="7-34vnk0uejuGuFCaelN-48" value="3、写入状态信息&lt;br&gt;表状态为待接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-47">
           <mxGeometry x="-0.2551" y="-2" relative="1" as="geometry">
             <mxPoint x="25" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-2" value="接收信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1356" y="184" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-49" value="接收信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1262" y="1520" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-46" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-3" target="YHHSH4uwDVHaBNSBB1Eg-1">
+        <mxCell id="7-34vnk0uejuGuFCaelN-50" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-52" target="7-34vnk0uejuGuFCaelN-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1991" y="270" as="sourcePoint" />
+            <mxPoint x="1897" y="1606" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1997" y="633" />
+              <mxPoint x="1903" y="1969" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-47" value="5、转为线索信息，从日常&lt;br&gt;中取数据写入线索基础表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-46">
+        <mxCell id="7-34vnk0uejuGuFCaelN-51" value="5、转为线索信息，从日常&lt;br&gt;中取数据写入线索基础表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-50">
           <mxGeometry x="-0.2155" y="-2" relative="1" as="geometry">
             <mxPoint x="5" y="-59" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-3" value="状态信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1794" y="184" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-52" value="状态信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1700" y="1520" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-4" value="附件信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1495" y="837" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-53" value="附件信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1422" y="2173" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-5" value="关注信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1131" y="-84" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-54" value="关注信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1037" y="1252" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-6" value="流程信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1824" y="827" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-55" value="流程信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1738" y="2167" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-12" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-7" target="YHHSH4uwDVHaBNSBB1Eg-9">
+        <mxCell id="7-34vnk0uejuGuFCaelN-56" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-57" target="7-34vnk0uejuGuFCaelN-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-7" value="人员信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1189" y="837" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-57" value="人员信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1095" y="2173" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-8" value="人员库信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1489" y="1055" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-58" value="人员库信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1395" y="2391" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-9" value="人员流程息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1192" y="1055" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-59" value="人员流程息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="1098" y="2391" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: verdana; font-size: 31px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;区域情况发送各省流程图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="1141.001428571429" y="-256.0042857142856" width="361" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" target="YHHSH4uwDVHaBNSBB1Eg-0">
+        <mxCell id="7-34vnk0uejuGuFCaelN-60" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" target="7-34vnk0uejuGuFCaelN-29">
           <mxGeometry width="120" relative="1" as="geometry">
-            <mxPoint x="541" y="224" as="sourcePoint" />
-            <mxPoint x="883.9999999999995" y="229.00000000000023" as="targetPoint" />
+            <mxPoint x="447" y="1560" as="sourcePoint" />
+            <mxPoint x="789.9999999999995" y="1565.0000000000002" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-12" value="1、情报接报发送到区域，&lt;br&gt;写日常基础信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-11">
+        <mxCell id="7-34vnk0uejuGuFCaelN-61" value="1、情报接报发送到区域，&lt;br&gt;写日常基础信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-60">
           <mxGeometry x="-0.3916" relative="1" as="geometry">
             <mxPoint x="73" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-44" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;endSize=14;startSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="krPjROnrd2UijMS6lK_2-1" source="YHHSH4uwDVHaBNSBB1Eg-3" target="YHHSH4uwDVHaBNSBB1Eg-3">
+        <mxCell id="7-34vnk0uejuGuFCaelN-62" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;endArrow=open;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;endSize=14;startSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-26" source="7-34vnk0uejuGuFCaelN-52" target="7-34vnk0uejuGuFCaelN-52">
           <mxGeometry width="120" relative="1" as="geometry">
-            <mxPoint x="1927" y="421" as="sourcePoint" />
-            <mxPoint x="1931" y="154" as="targetPoint" />
+            <mxPoint x="1833" y="1757" as="sourcePoint" />
+            <mxPoint x="1837" y="1490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2095" y="218" />
-              <mxPoint x="2095" y="41" />
-              <mxPoint x="1895" y="41" />
+              <mxPoint x="2001" y="1554" />
+              <mxPoint x="2001" y="1377" />
+              <mxPoint x="1801" y="1377" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-45" value="4、用户接收后写入状态信息&lt;br&gt;表，状态写为待处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="YHHSH4uwDVHaBNSBB1Eg-44">
+        <mxCell id="7-34vnk0uejuGuFCaelN-63" value="4、用户接收后写入状态信息&lt;br&gt;表，状态写为待处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-62">
           <mxGeometry x="0.1376" y="3" relative="1" as="geometry">
             <mxPoint x="60" y="77" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-59" value="" style="group" vertex="1" connectable="0" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="2306" y="-104" width="418" height="491" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-64" value="结构化记录信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7-34vnk0uejuGuFCaelN-26">
+          <mxGeometry x="772" y="2173" width="203" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-50" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="YHHSH4uwDVHaBNSBB1Eg-59">
+        <object label="系统核心业务流程" id="7-34vnk0uejuGuFCaelN-65">
+          <mxCell parent="krPjROnrd2UijMS6lK_2-0" />
+        </object>
+        <mxCell id="7-34vnk0uejuGuFCaelN-66" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: verdana; font-size: 31px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;区域情况发送各省流程图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="7-34vnk0uejuGuFCaelN-65">
+          <mxGeometry x="693.0014285714287" y="-249.00428571428557" width="361" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7-34vnk0uejuGuFCaelN-67" value="" style="group" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-65">
+          <mxGeometry x="2305" y="-353" width="418" height="491" as="geometry" />
+        </mxCell>
+        <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
           <mxGeometry y="28" width="418" height="463" as="geometry" />
         </mxCell>
-        <mxCell id="YHHSH4uwDVHaBNSBB1Eg-58" value="注意事项：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="YHHSH4uwDVHaBNSBB1Eg-59">
+        <mxCell id="7-34vnk0uejuGuFCaelN-69" value="注意事项：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
           <mxGeometry width="110" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-6" value="结构化记录信息表" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="882" y="837" width="203" height="69" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-73" value="&lt;font style=&quot;font-size: 31px&quot;&gt;区域情况发送各省流程图&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=59;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=19;align=center;sketch=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#B0C7FC;strokeColor=#6c8ebf;swimlaneFillColor=none;" vertex="1" parent="7-34vnk0uejuGuFCaelN-65">
+          <mxGeometry x="517" y="-192" width="1635" height="1182" as="geometry">
+            <mxRectangle x="-167" y="-38" width="313" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-13" value="线索业务类" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="3301" y="79" width="182" height="360" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-74" value="情况接报（外）" style="swimlane;html=1;startSize=37;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-73">
+          <mxGeometry y="59" width="213" height="1123" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#808080;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="7-34vnk0uejuGuFCaelN-13">
-          <mxGeometry x="86" y="90" width="10" height="120" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-71" value="&lt;font style=&quot;font-size: 24px&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=17;" vertex="1" parent="7-34vnk0uejuGuFCaelN-74">
+          <mxGeometry x="44" y="191" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-15" value="区域业务类" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="3047" y="79" width="214" height="356" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-78" value="区域" style="swimlane;html=1;startSize=37;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-73">
+          <mxGeometry x="213" y="59" width="805" height="1123" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="7-34vnk0uejuGuFCaelN-15">
-          <mxGeometry x="102" y="90" width="10" height="120" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-121" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-78" source="7-34vnk0uejuGuFCaelN-72" target="7-34vnk0uejuGuFCaelN-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242" y="127" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-17" value="线索业务类" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="krPjROnrd2UijMS6lK_2-1">
-          <mxGeometry x="3523" y="79" width="182" height="360" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-72" value="接收情报接报数据&lt;br&gt;（写入日常信息表）" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=16;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
+          <mxGeometry x="46" y="205" width="143" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#808080;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" vertex="1" parent="7-34vnk0uejuGuFCaelN-17">
-          <mxGeometry x="86" y="90" width="10" height="120" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-122" value="是否接收" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
+          <mxGeometry x="281" y="183" width="141" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="结束" tooltip="将日常基础信息表和接收信息表注销标注置为0" id="7-34vnk0uejuGuFCaelN-125">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
+            <mxGeometry x="289" y="50" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7-34vnk0uejuGuFCaelN-126" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-78" source="7-34vnk0uejuGuFCaelN-122" target="7-34vnk0uejuGuFCaelN-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-34vnk0uejuGuFCaelN-101" value="各省市" style="swimlane;html=1;startSize=37;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-73">
+          <mxGeometry x="1018" y="59" width="616" height="1123" as="geometry" />
+        </mxCell>
+        <mxCell id="7-34vnk0uejuGuFCaelN-70" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=24;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-73" source="7-34vnk0uejuGuFCaelN-71" target="7-34vnk0uejuGuFCaelN-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
