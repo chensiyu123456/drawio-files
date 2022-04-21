@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:43:24.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kIvkXNgCnI6ZUIjHWLgH" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:48:13.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="wdyMTbasgKX036-O_LGt" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -577,10 +577,10 @@
           <mxGeometry x="693.0014285714287" y="-315.0042857142856" width="361" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-67" value="" style="group" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-65">
-          <mxGeometry x="2305" y="-353" width="418" height="491" as="geometry" />
+          <mxGeometry x="2305" y="-353" width="540" height="558" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;区域才能结束日常，省只能回复，省不能新建日常信息，只能新建线索信息&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;在详情页面中，区域看到的按钮是 工作处理，用于更新该线索的其他信息，省看到的按钮是反馈按钮，用于反馈人员的稳控信息&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;已处理分类列表中只展示自己发出的事件&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
-          <mxGeometry y="28" width="418" height="463" as="geometry" />
+        <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;区域才能结束日常，省只能回复，省不能新建日常信息，只能新建线索信息&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;在详情页面中，区域看到的按钮是 工作处理，用于更新该线索的其他信息，省看到的按钮是反馈按钮，用于反馈人员的稳控信息&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;已处理分类列表中只展示自己发出的事件，等所有相关单位都反馈后，进入已反馈列表，等自己结束掉后就进入已办结列表。如果所有单位还没有反馈完，但是我自己办结了，那么在已办结中能看到，但在已反馈里面没有该事件。&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
+          <mxGeometry y="31.820773930753568" width="540" height="526.1792260692465" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-69" value="注意事项：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
           <mxGeometry width="110" height="28" as="geometry" />
