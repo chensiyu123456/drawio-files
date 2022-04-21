@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T08:48:24.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="M0wHxaF_5x4dBhWGWPa-" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-21T08:50:52.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="0Q3aIbXpavvbvvCgDUgf" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="核查人员并反馈核查信息" tooltip="xx省反馈某条线索，和反馈人员核查状态和核查信息，如果区域提前完结，那就不能进行反馈了&#xa;1、在流程信息表中插入一条数据，记录线索处置信息。&#xa;2、更新状态信息表中该条数据为已反馈状态&#xa;2、更新人员信息表中的单个人员的状态信息为（已稳控或工作中）&#xa;3、在人员流程信息表中插入更新人员的流程信息，记录针对单个人员在某省，某条线锁上的稳控记录" id="ytCOpAnG5ChMcY3Y_zWk-4">
+        <UserObject label="核查人员并反馈核查信息" tooltip="描述:&#xa;xx省反馈某条线索，和反馈人员核查状态和核查信息，如果区域提前完结，那就不能进行反馈了,保存时候先判断是否状态被置为办结，如果办结则不能保存成功，如果没有办结则可以保存。&#xa;1、在流程信息表中插入一条数据，记录线索处置信息。&#xa;2、更新状态信息表中该条数据为已反馈状态&#xa;2、更新人员信息表中的单个人员的状态信息为（已稳控或工作中）&#xa;3、在人员流程信息表中插入更新人员的流程信息，记录针对单个人员在某省，某条线锁上的稳控记录" id="ytCOpAnG5ChMcY3Y_zWk-4">
           <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
             <mxGeometry x="79" y="538" width="120" height="60" as="geometry" />
           </mxCell>
