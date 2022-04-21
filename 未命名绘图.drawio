@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T08:03:40.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AqY_yHCv9yFCaL9DiWno" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-21T08:13:45.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eOLQltfgUyeyO4AV3SCc" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riQthwZXy0yVwxQMupO3" name="区域警务合作一体化指挥信息平台-流程图">
-    <mxGraphModel dx="4743" dy="1777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="1901" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="krPjROnrd2UijMS6lK_2-0" />
         <mxCell id="krPjROnrd2UijMS6lK_2-1" style="" parent="krPjROnrd2UijMS6lK_2-0" />
@@ -577,7 +577,7 @@
           <mxGeometry x="693.0014285714287" y="-315.0042857142856" width="361" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-67" value="" style="group" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-65">
-          <mxGeometry x="2305" y="-353" width="540" height="558" as="geometry" />
+          <mxGeometry x="2258" y="-426" width="540" height="558" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;区域才能结束日常，省只能回复，省不能新建日常信息，只能新建线索信息&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;在详情页面中，区域看到的按钮是 工作处理，用于更新该线索的其他信息，省看到的按钮是反馈按钮，用于反馈人员的稳控信息&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;已处理分类列表中只展示自己发出的事件，等所有相关单位都反馈后，进入已反馈列表，等自己结束掉后就进入已办结列表。如果所有单位还没有反馈完，但是我自己办结了，那么在已办结中能看到，但在已反馈里面没有该事件。&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
           <mxGeometry y="31.820773930753568" width="540" height="526.1792260692465" as="geometry" />
@@ -776,24 +776,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-8" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;dashed=1;" edge="1" parent="7-34vnk0uejuGuFCaelN-101" source="ytCOpAnG5ChMcY3Y_zWk-4" target="ytCOpAnG5ChMcY3Y_zWk-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="核查人员并反馈核查信息" tooltip="xx省反馈某条线索，和反馈人员核查状态和核查信息，如果区域提前完结，那就不能进行反馈了&#xa;1、在流程信息表中插入一条数据，记录线索处置信息。&#xa;2、更新状态信息表中该条数据为已反馈状态&#xa;2、更新人员信息表中的单个人员的状态信息为（已稳控或工作中）&#xa;3、在人员流程信息表中插入更新人员的流程信息，记录针对单个人员在某省，某条线锁上的稳控记录" id="ytCOpAnG5ChMcY3Y_zWk-4">
-          <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
-            <mxGeometry x="309" y="222.5" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-5" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-101" source="ytCOpAnG5ChMcY3Y_zWk-0" target="ytCOpAnG5ChMcY3Y_zWk-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-5" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7-34vnk0uejuGuFCaelN-101" source="ytCOpAnG5ChMcY3Y_zWk-0" target="Nj_n1kurRvm8hdO5978C-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="253" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ytCOpAnG5ChMcY3Y_zWk-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="ytCOpAnG5ChMcY3Y_zWk-5">
           <mxGeometry x="-0.2295" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-7" value="1、详情页面中，区域看到的是反馈按钮，用于反馈当前线索的人员稳控信息，收到上级的不能再发送" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;align=left;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
-          <mxGeometry x="242.5" y="47" width="253" height="96" as="geometry" />
+        <UserObject label="是否完结" tooltip="1、省账号登录后，查询接收信息表，查到为接收信息在待接收列表展示&#xa;2、根据单位代码和线索id以状态信息表为主表查询本省的未办理，已办理等状态信息&#xa;" id="Nj_n1kurRvm8hdO5978C-1">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
+            <mxGeometry x="356" y="210" width="190" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="核查人员并反馈核查信息" tooltip="xx省反馈某条线索，和反馈人员核查状态和核查信息，如果区域提前完结，那就不能进行反馈了&#xa;1、在流程信息表中插入一条数据，记录线索处置信息。&#xa;2、更新状态信息表中该条数据为已反馈状态&#xa;2、更新人员信息表中的单个人员的状态信息为（已稳控或工作中）&#xa;3、在人员流程信息表中插入更新人员的流程信息，记录针对单个人员在某省，某条线锁上的稳控记录" id="ytCOpAnG5ChMcY3Y_zWk-4">
+          <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
+            <mxGeometry x="394" y="377" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nj_n1kurRvm8hdO5978C-3" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-101" source="Nj_n1kurRvm8hdO5978C-1" target="ytCOpAnG5ChMcY3Y_zWk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="449.50000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj_n1kurRvm8hdO5978C-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="Nj_n1kurRvm8hdO5978C-3">
+          <mxGeometry x="-0.1318" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nj_n1kurRvm8hdO5978C-7" value="结束&lt;br&gt;只能查看" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
+          <mxGeometry x="394" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj_n1kurRvm8hdO5978C-8" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-101" source="Nj_n1kurRvm8hdO5978C-1" target="Nj_n1kurRvm8hdO5978C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nj_n1kurRvm8hdO5978C-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="Nj_n1kurRvm8hdO5978C-8">
+          <mxGeometry x="-0.0724" y="-2" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="提前办结" tooltip="1、更新状态信息表，将区域在该条线索的状态设置为已办结。&#xa;2、在流程信息表中加入一条记录，记录区域在什么时间将某条线索进行了完结操作&#xa;注意：如果本条事件没有完成所有结构的反馈，在已反馈列表中不能看到该条线索，但在已完结列表中能看到" id="ytCOpAnG5ChMcY3Y_zWk-12">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-65">
@@ -807,6 +829,12 @@
           <mxGeometry x="-0.0846" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-7" value="1、详情页面中，区域看到的是反馈按钮，用于反馈当前线索的人员稳控信息，收到上级的不能再发送" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;align=left;" vertex="1" parent="7-34vnk0uejuGuFCaelN-65">
+          <mxGeometry x="2258" y="145" width="253" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ytCOpAnG5ChMcY3Y_zWk-8" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;dashed=1;" edge="1" parent="7-34vnk0uejuGuFCaelN-65" source="ytCOpAnG5ChMcY3Y_zWk-4" target="ytCOpAnG5ChMcY3Y_zWk-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
