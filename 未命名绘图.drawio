@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T01:28:56.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ZEDd9yasZnhQJ17zgvDE" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-21T01:41:46.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jtoE5sFqmFWVKaTrgsJS" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,7 +587,7 @@
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 31px&quot;&gt;区域情况发送各省流程图&lt;/font&gt;" tooltip="状态信息表中修改当前事件状态为未办理" id="7-34vnk0uejuGuFCaelN-73">
           <mxCell style="swimlane;html=1;childLayout=stackLayout;startSize=59;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=19;align=center;sketch=1;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#B0C7FC;strokeColor=#6c8ebf;swimlaneFillColor=none;" vertex="1" parent="7-34vnk0uejuGuFCaelN-65">
-            <mxGeometry x="610" y="-189" width="1635" height="1709" as="geometry">
+            <mxGeometry x="594" y="-189" width="1635" height="1709" as="geometry">
               <mxRectangle x="-167" y="-38" width="313" height="20" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
@@ -684,7 +684,7 @@
         </mxCell>
         <UserObject label="线索信息完善调用NLP根据内容进行结构化" tooltip="1、将NLP分析后的结构化信息，存入结构化记录信息表中（存入NLP的分析结果）" id="GYThLHX-ruswTGYWqQjC-7">
           <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
-            <mxGeometry x="255" y="549" width="159.5" height="60" as="geometry" />
+            <mxGeometry x="265.5" y="549" width="159.5" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="GYThLHX-ruswTGYWqQjC-8" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-78" source="7-34vnk0uejuGuFCaelN-136" target="GYThLHX-ruswTGYWqQjC-7">
@@ -694,6 +694,14 @@
           <mxGeometry x="-0.0653" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <UserObject label="完善结构化信息&lt;br&gt;补全附件或人员信息" tooltip="1、调用文件服务上传附件后，在附件信息表中记录附件id和事件id对应关系&#xa;2、补全人员信息后，在人员信息表中记录入人员相关信息，补全人员信息时候，先从人员库信息表中根据身份证匹配，看是否有能匹配的人员信息，如果有直接读出填入&#xa;3、点击保存，更新线索基本信息表中结构化信息&#xa;4、调用日志接口，记录编辑动作" id="GYThLHX-ruswTGYWqQjC-10">
+          <mxCell style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="7-34vnk0uejuGuFCaelN-78">
+            <mxGeometry x="21" y="549" width="145" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GYThLHX-ruswTGYWqQjC-11" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;elbow=vertical;" edge="1" parent="7-34vnk0uejuGuFCaelN-78" source="GYThLHX-ruswTGYWqQjC-7" target="GYThLHX-ruswTGYWqQjC-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-101" value="各省市" style="swimlane;html=1;startSize=37;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-73">
           <mxGeometry x="1018" y="59" width="616" height="1650" as="geometry" />
