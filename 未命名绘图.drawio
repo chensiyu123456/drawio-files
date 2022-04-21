@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T07:34:48.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YeFTUnRZBT7QvZi-vd29" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-21T07:43:24.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="kIvkXNgCnI6ZUIjHWLgH" version="17.4.5" type="github" pages="5">
   <diagram id="MDB5B0fGtwrSBb0VRnRs" name="区域警务合作一体化指挥信息平台-系统容器图">
     <mxGraphModel dx="2163" dy="1671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,7 +579,7 @@
         <mxCell id="7-34vnk0uejuGuFCaelN-67" value="" style="group" vertex="1" connectable="0" parent="7-34vnk0uejuGuFCaelN-65">
           <mxGeometry x="2305" y="-353" width="418" height="491" as="geometry" />
         </mxCell>
-        <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;区域才能结束日常，省只能回复，省不能新建日常信息，只能新建线索信息&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;在详情页面中，区域看到的按钮是 工作处理，用于更新该线索的其他信息，省看到的按钮是反馈按钮，用于反馈人员的稳控信息&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
+        <mxCell id="7-34vnk0uejuGuFCaelN-68" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;结构化记录表，主要用于记录NLP服务匹配出来的数据，记录中保存当前线索ID和NLP的分析结果，方便后续进行分析&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;经过与刘老师沟通，在情报接报往区域发送时，在区域接受到分类之前的操作记录不用记录，从区域进行分类后开始流程，但是需要记录操作日志&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;区域才能结束日常，省只能回复，省不能新建日常信息，只能新建线索信息&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;在详情页面中，区域看到的按钮是 工作处理，用于更新该线索的其他信息，省看到的按钮是反馈按钮，用于反馈人员的稳控信息&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;已处理分类列表中只展示自己发出的事件&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;align=left;verticalAlign=top;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
           <mxGeometry y="28" width="418" height="463" as="geometry" />
         </mxCell>
         <mxCell id="7-34vnk0uejuGuFCaelN-69" value="注意事项：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-67">
@@ -753,7 +753,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="各省市" tooltip="1、点击接收后，修改接收信息表中的以该省单位代码和线索id确定的唯一条数据的状态为以接收&#xa;2、点击接收后，在状态信息表中插入一条数据（状态信息表主要是根据省代码和线索id进行数据区分），状态置为未办理&#xa;3、点击接收后，流程信息表中插入一条数据，记录xx省接收某条线索" id="7-34vnk0uejuGuFCaelN-101">
+        <UserObject label="各省市" tooltip="1、点击接收后，修改接收信息表中的以该省单位代码和线索id确定的唯一条数据的状态为以接收&#xa;2、点击接收后，在状态信息表中插入一条数据（状态信息表主要是根据省代码和线索id进行数据区分），状态置为未办理&#xa;3、点击接收后，流程信息表中插入一条数据，记录xx省接收某条线索&#xa;4、更新状态信息表中数据（状态信息表中主要是根据线索id和单位代码确定唯一条数据状态）为已处理" id="7-34vnk0uejuGuFCaelN-101">
           <mxCell style="swimlane;html=1;startSize=37;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="7-34vnk0uejuGuFCaelN-73">
             <mxGeometry x="1018" y="59" width="616" height="1650" as="geometry" />
           </mxCell>
@@ -793,7 +793,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ytCOpAnG5ChMcY3Y_zWk-7" value="1、详情页面中，区域看到的是反馈按钮，用于反馈当前线索的人员稳控信息，收到上级的不能再发送" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;align=left;" vertex="1" parent="7-34vnk0uejuGuFCaelN-101">
-          <mxGeometry x="260" y="47" width="218" height="86" as="geometry" />
+          <mxGeometry x="242.5" y="47" width="253" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
