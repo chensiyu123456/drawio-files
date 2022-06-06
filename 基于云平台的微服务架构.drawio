@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T12:39:12.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Hi-_Wz6uUAlfRWprK8Ux" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-06T12:42:04.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="J_Zl-KLoypJV9ws0W4l-" version="19.0.0" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2353" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -548,7 +548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SXrVRVNj6cb-xHmxNzFF" name="服务分层分域结构图">
-    <mxGraphModel dx="2469" dy="911" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3184" dy="1301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,6 +611,18 @@
         </mxCell>
         <mxCell id="1el2_7EATQn39qcMbeRZ-14" value="(SMP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="1el2_7EATQn39qcMbeRZ-19">
           <mxGeometry y="416" width="65" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="1el2_7EATQn39qcMbeRZ-20" value="全文检索服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-236" y="542" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1el2_7EATQn39qcMbeRZ-21" value="智能网关服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="153" y="240" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1el2_7EATQn39qcMbeRZ-23" value="轻&lt;br&gt;运&lt;br&gt;维&lt;br&gt;管&lt;br&gt;理&lt;br&gt;平" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=37;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="883.83" y="166" width="77.67" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1el2_7EATQn39qcMbeRZ-24" value="(UCMS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="883.5" y="580" width="78" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
