@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T12:18:30.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Csqo-ffX2u3esNrixl73" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-06T12:19:11.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="-KMuuTx8xxCWWxWkzevL" version="19.0.0" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2353" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -578,6 +578,9 @@
         </mxCell>
         <mxCell id="1el2_7EATQn39qcMbeRZ-6" value="GIS可视化服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-413" y="238" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1el2_7EATQn39qcMbeRZ-7" value="通知通报服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="238" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
