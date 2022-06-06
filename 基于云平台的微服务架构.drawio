@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T10:40:39.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="-5cGbuPitYSEqQy4vkhZ" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:48:25.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ZE9Kv4a_cZGfrAi1iMiP" version="18.1.3" type="github" pages="2">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2070" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="平台架构整体规划">
-    <mxGraphModel dx="4306" dy="3120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3788" dy="2867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="yOwxqxkXujApihUdTshh-53" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="52" y="24" width="754" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="yOwxqxkXujApihUdTshh-43" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
+        <mxCell id="yOwxqxkXujApihUdTshh-43" value="Oracle" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
           <mxGeometry y="3.312348668280872" width="215.57734806629836" height="56.30992736077483" as="geometry" />
         </mxCell>
         <mxCell id="yOwxqxkXujApihUdTshh-45" value="Tomcat" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
@@ -214,7 +214,7 @@
         <mxCell id="yOwxqxkXujApihUdTshh-47" value="rocketMq" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
           <mxGeometry y="90.53753026634384" width="215.57734806629836" height="56.30992736077483" as="geometry" />
         </mxCell>
-        <mxCell id="yOwxqxkXujApihUdTshh-48" value="ActivetyMq" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
+        <mxCell id="yOwxqxkXujApihUdTshh-48" value="ActiveMq" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
           <mxGeometry x="268.69060773480663" y="87.22518159806296" width="215.57734806629836" height="56.30992736077483" as="geometry" />
         </mxCell>
         <mxCell id="yOwxqxkXujApihUdTshh-49" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-53">
