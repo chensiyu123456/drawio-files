@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T10:40:06.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="tmDWvViZTmEdnysAiirg" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:40:39.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="-5cGbuPitYSEqQy4vkhZ" version="18.1.3" type="github" pages="2">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2070" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -459,6 +459,9 @@
         </mxCell>
         <mxCell id="yOwxqxkXujApihUdTshh-74" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;安全管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="yOwxqxkXujApihUdTshh-138">
           <mxGeometry y="12.346666666666579" width="271" height="37.04" as="geometry" />
+        </mxCell>
+        <mxCell id="yOwxqxkXujApihUdTshh-139" value="基础公共&lt;br&gt;微服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-776" y="-653" width="113" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
