@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T03:31:58.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="1DXUmgbnKLHQ67ojIdVC" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-07T03:34:00.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="9IjBiU84of1PH_yrqXhS" version="19.0.0" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2469" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -683,6 +683,9 @@
         </mxCell>
         <mxCell id="xzqdDZskvvH0w2-5CcHH-20" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-201" y="60" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-21" value="视频播放服务&lt;br&gt;（vv4puc）" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="394" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
