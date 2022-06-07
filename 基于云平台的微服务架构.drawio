@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T03:34:00.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="9IjBiU84of1PH_yrqXhS" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-07T03:38:10.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="sCg4DGJl1te7Qs-3-XVB" version="19.0.0" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="2469" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -666,26 +666,65 @@
         <mxCell id="xzqdDZskvvH0w2-5CcHH-10" value="要情指令业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-11">
           <mxGeometry x="16" y="15" width="162" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-14" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="3" width="194" height="347" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-15" value="CTI服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-203.5" y="207" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-16" value="接警网关服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-203" y="281" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-18" value="接警服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-202" y="134" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-19" value="接警业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-199" y="18" width="162" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-20" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-201" y="60" width="171" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xzqdDZskvvH0w2-5CcHH-21" value="视频播放服务&lt;br&gt;（vv4puc）" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-109" y="394" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-226" y="3" width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-14" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-15" value="CTI服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry x="11.5" y="204" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-16" value="接警网关服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry x="12" y="278" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-18" value="接警服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry x="13" y="131" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-19" value="接警业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry x="16" y="15" width="162" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-20" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-24">
+          <mxGeometry x="14" y="57" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-16" y="3" width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-27" value="CTI服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry x="11.5" y="204" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-28" value="接警网关服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry x="12" y="278" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-29" value="接警服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry x="13" y="131" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-30" value="处警业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry x="16" y="15" width="162" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-31" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-25">
+          <mxGeometry x="14" y="57" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="192" y="1" width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-33" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-32">
+          <mxGeometry width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-36" value="回访服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-32">
+          <mxGeometry x="11.5" y="279" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-37" value="警情回访业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-32">
+          <mxGeometry x="16" y="15" width="162" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-38" value="警情回访前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="xzqdDZskvvH0w2-5CcHH-32">
+          <mxGeometry x="14" y="57" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
