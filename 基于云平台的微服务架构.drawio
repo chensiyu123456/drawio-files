@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T01:49:30.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="jW7lGrgGAWhImBfpnMCT" version="19.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-08T06:18:48.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="VtnHSTp377BE3z9M5FjF" version="19.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
-    <mxGraphModel dx="2206" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2963" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="w6ue0_b44oE_nx133fVt-0" />
         <mxCell id="w6ue0_b44oE_nx133fVt-1" parent="w6ue0_b44oE_nx133fVt-0" />
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="平台架构整体规划">
-    <mxGraphModel dx="4324" dy="2804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6824" dy="4064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,7 +548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SXrVRVNj6cb-xHmxNzFF" name="服务分层分域结构图">
-    <mxGraphModel dx="2606" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3543" dy="1593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,27 +687,6 @@
         <mxCell id="xzqdDZskvvH0w2-5CcHH-20" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="xzqdDZskvvH0w2-5CcHH-24" vertex="1">
           <mxGeometry x="14" y="57" width="171" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-25" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-112" y="2.5" width="194" height="347" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry width="194" height="347" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-27" value="CTI服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry x="11.5" y="204" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-28" value="接警网关服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry x="12" y="278" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-29" value="接警服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry x="13" y="131" width="171" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-30" value="处警业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry x="16" y="15" width="162" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="xzqdDZskvvH0w2-5CcHH-31" value="接警前端服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="xzqdDZskvvH0w2-5CcHH-25" vertex="1">
-          <mxGeometry x="14" y="57" width="171" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xzqdDZskvvH0w2-5CcHH-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="516" y="2" width="194" height="347" as="geometry" />
         </mxCell>
@@ -771,8 +750,26 @@
         <mxCell id="a9Ev8syI5EsDgv3NmUVR-9" value="综合应用，主要依赖基础公共服务和业务服务根据业务特性进行设计" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" parent="1" vertex="1">
           <mxGeometry x="-883" y="95" width="200" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="WeiKszYw8M9jjeDa5Mvz-1" value="PUC数据适配服务&lt;br&gt;（data4puc）" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="WeiKszYw8M9jjeDa5Mvz-1" value="PUC数据适配服务&lt;br&gt;（data4puc）" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-516" y="402" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-112" y="2.5" width="194" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-27" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-100.5" y="206.5" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-28" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="280.5" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-29" value="处警服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-99" y="133.5" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-30" value="处警业务域" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-96" y="17.5" width="162" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xzqdDZskvvH0w2-5CcHH-31" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="-98" y="59.5" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
