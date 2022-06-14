@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T01:50:26.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="yWv5-dKnWWF9T745E-X7" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T02:32:11.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="weBi5u7VKTZTTZlvdnmt" version="19.0.3" type="github" pages="2">
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="平台架构整体规划">
     <mxGraphModel dx="3756" dy="2507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
           <mxGeometry x="533" y="581" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1el2_7EATQn39qcMbeRZ-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1134" y="-26" width="61" height="755" as="geometry" />
+          <mxGeometry x="908" y="-30" width="61" height="755" as="geometry" />
         </mxCell>
         <mxCell id="1el2_7EATQn39qcMbeRZ-10" value="融合通信平台" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=37;fillColor=#ffcc99;strokeColor=#36393d;" parent="1el2_7EATQn39qcMbeRZ-16" vertex="1">
           <mxGeometry x="3" width="56" height="755" as="geometry" />
