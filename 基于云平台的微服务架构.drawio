@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T07:21:17.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="BqthwPupe1fFwipQWzhw" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T07:21:36.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="SZTy4EZETCzM-2CkpRjr" version="20.0.1" type="github" pages="2">
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="平台架构整体规划">
     <mxGraphModel dx="2606" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SXrVRVNj6cb-xHmxNzFF" name="服务分层分域结构图">
-    <mxGraphModel dx="5212" dy="2238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="1759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,7 +552,7 @@
           <mxGeometry x="-54" y="-95" width="649" height="457" as="geometry" />
         </mxCell>
         <mxCell id="xzqdDZskvvH0w2-5CcHH-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#000000;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="173.5" y="-6" width="194" height="347" as="geometry" />
+          <mxGeometry x="172.5" y="-10" width="194.5" height="351" as="geometry" />
         </mxCell>
         <mxCell id="xzqdDZskvvH0w2-5CcHH-27" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="185" y="198" width="171" height="60" as="geometry" />
