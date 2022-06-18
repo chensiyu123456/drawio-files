@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T14:54:21.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="8JGPY51FFAxD8eQungk_" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-18T14:54:36.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="rX2iJ1sghsNyDzB-RZ4F" version="20.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -220,12 +220,12 @@
         </object>
         <object placeholders="1" c4Name="操作日志" c4Type="Container" c4Technology="SpringBoot" c4Description="记录操作日志和登录日志" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="bGjo0N-ikjiotVUOWVIY-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-            <mxGeometry x="461" y="294" width="240" height="120" as="geometry" />
+            <mxGeometry x="447" y="351" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="单点登录" c4Type="Container" c4Technology="SpringBoot" c4Description="提供统一登录平台" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="bGjo0N-ikjiotVUOWVIY-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-            <mxGeometry x="461" y="-116" width="240" height="120" as="geometry" />
+            <mxGeometry x="449" y="-116" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="k5sNsXpFiTjpk9XiwPe8-11" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;jumpStyle=arc;" edge="1" parent="1" source="bGjo0N-ikjiotVUOWVIY-4" target="bGjo0N-ikjiotVUOWVIY-1">
@@ -361,7 +361,7 @@
         </object>
         <object placeholders="1" c4Name="文件服务" c4Type="Container" c4Technology="SpringBoot" c4Description="使用mini-io提供统一文件和附件保存能" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="k5sNsXpFiTjpk9XiwPe8-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-            <mxGeometry x="458" y="74" width="240" height="120" as="geometry" />
+            <mxGeometry x="449" y="104" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
