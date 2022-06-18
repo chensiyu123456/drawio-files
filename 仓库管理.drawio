@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T08:16:36.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="iHaZCfJb2lMmzWFGviEK" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:27:05.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="U8PTgdyJ1cKDGiKPRClC" version="20.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="智能仓库平台架构整体规划">
-    <mxGraphModel dx="2563" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,14 @@
             <mxGeometry x="-42" y="58" width="1183" height="642" as="geometry" />
           </mxCell>
         </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="N2B3vKRHUJC6ED7skFvD" name="涉案和罚没物资管理模块">
+    <mxGraphModel dx="1406" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
