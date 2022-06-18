@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:50:50.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="KtdFnF3a3c2NQYDry4yx" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T07:56:18.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="h0FEpPsQMSw4gAOreWpB" version="20.0.1" type="github" pages="2">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -135,13 +135,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="智能仓库平台架构整体规划">
-    <mxGraphModel dx="1962" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="涉案和罚没财物管理" c4Type="涉案和罚没财物管理" c4Description="主要进行涉案与罚没物资的入库出库等管理工作" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="YC5Jh_QCpBL3bfEsnvN5-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-            <mxGeometry x="-20" y="106" width="240" height="120" as="geometry" />
+            <mxGeometry x="-20" y="105" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="涉案和罚没财物处置" c4Type="涉案和罚没财物处置" c4Description="涉案和罚没财物处置主要对物资进行处置，并记录处置过程和时间地点及方式" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="YC5Jh_QCpBL3bfEsnvN5-3">
@@ -151,42 +151,42 @@
         </object>
         <object placeholders="1" c4Name="涉案和罚没财物运输" c4Type="涉案和罚没财物运输" c4Description="涉案和罚没财物运输主要进行运输车辆的管理和车辆的调派" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Gk1VI8tYWO6obsCIDN2m-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-            <mxGeometry x="286" y="106" width="240" height="120" as="geometry" />
+            <mxGeometry x="275" y="106" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="公物仓系统管理模块" c4Type="公物仓系统管理模块" c4Description="公物仓系统管理模块主要对系统的单位，人员，权限，字典等信息进行管理" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="Gk1VI8tYWO6obsCIDN2m-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-            <mxGeometry x="1170" y="102" width="240" height="120" as="geometry" />
+            <mxGeometry x="-20" y="288" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="公物仓工单管理模块" c4Type="公物仓工单管理模块" c4Description="支撑各个部门的入库，出库申请和审批" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-            <mxGeometry x="575" y="102" width="240" height="120" as="geometry" />
+            <mxGeometry x="569" y="103" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="综合检测预警模块" c4Type="综合检测预警模块" c4Description="安防预警，消防预警，运输预警，环境预警" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-            <mxGeometry x="1175" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="-20" y="478" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="档案数字化管理系统" c4Type="档案数字化管理系统" c4Description="档案数字化管理，电子文件归档，数字档案托管，ES电子签名系统" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-            <mxGeometry x="-20" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="278" y="288" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="综合展示分析大屏" c4Type="综合展示分析大屏" c4Description="涉案罚没物资数据大屏，仓库大数据大屏，物联网设备数据大屏，视频监控，AOA数据大屏" label="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;container=0;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
-            <mxGeometry x="286" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="576" y="288" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="公物仓智能无人仓储模块" c4Type="公物仓智能无人仓储模块" c4Description="通过智能化设备完成仓库的无人管理和调度" label="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;container=0;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
-            <mxGeometry x="572" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="874" y="288" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="公物仓智慧仓储模块" c4Type="公物仓智慧仓储模块" c4Description="3D可视化库房管理，库位引导，盘点统计，综合维保，任务管理等" label="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="kpv5ZpdM0K5osseEOzqg-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;align=center;arcSize=10;strokeColor=#36393d;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;movable=1;rotatable=1;deletable=1;editable=1;connectable=1;container=0;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
-            <mxGeometry x="869" y="280" width="240" height="120" as="geometry" />
+            <mxGeometry x="874" y="474" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
