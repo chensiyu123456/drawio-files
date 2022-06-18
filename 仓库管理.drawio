@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T14:52:46.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="7Y5ht6pAt4jMQDFRRSdY" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-18T14:54:21.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="8JGPY51FFAxD8eQungk_" version="20.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N2B3vKRHUJC6ED7skFvD" name="涉案和罚没物资管理模块C4设计图">
-    <mxGraphModel dx="2912" dy="1515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3568" dy="1873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,9 +242,14 @@
         <mxCell id="k5sNsXpFiTjpk9XiwPe8-33" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="bGjo0N-ikjiotVUOWVIY-4" target="k5sNsXpFiTjpk9XiwPe8-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k5sNsXpFiTjpk9XiwPe8-35" value="保存照片，视频，附件等&lt;br&gt;http/json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;fontColor=#000000;" vertex="1" connectable="0" parent="k5sNsXpFiTjpk9XiwPe8-33">
+          <mxGeometry x="-0.2991" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="涉案罚没财物管理前端" c4Type="Container" c4Technology="vue" c4Description="涉案罚没财物管理模块" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="bGjo0N-ikjiotVUOWVIY-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#000000;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-            <mxGeometry x="-145" y="-120" width="240" height="120" as="geometry" />
+            <mxGeometry x="-130" y="-145" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="k5sNsXpFiTjpk9XiwPe8-29" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="s5MQI6ORIwNeuEJ61s4T-1" target="k5sNsXpFiTjpk9XiwPe8-22">
@@ -336,12 +341,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k5sNsXpFiTjpk9XiwPe8-34" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;spacingTop=1;jumpStyle=arc;" edge="1" parent="1" source="k5sNsXpFiTjpk9XiwPe8-22" target="k5sNsXpFiTjpk9XiwPe8-32">
+        <mxCell id="k5sNsXpFiTjpk9XiwPe8-36" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="k5sNsXpFiTjpk9XiwPe8-22" target="k5sNsXpFiTjpk9XiwPe8-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5sNsXpFiTjpk9XiwPe8-37" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;包3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22d%22%20style%3D%22edgeStyle%3Dnone%3Brounded%3D0%3Bsketch%3D1%3BhachureGap%3D4%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.75%3BentryDx%3D0%3BentryDy%3D0%3BentryPerimeter%3D0%3BfontFamily%3DArchitects%20Daughter%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DArchitects%252BDaughter%3BfontSize%3D15%3BfontColor%3D%23000000%3BstartArrow%3Dnone%3BstartFill%3D0%3BendArrow%3Dopen%3BendFill%3D0%3BstartSize%3D14%3BendSize%3D14%3BsourcePerimeterSpacing%3D8%3BtargetPerimeterSpacing%3D8%3BlabelBackgroundColor%3Dnone%3BspacingTop%3D1%3BjumpStyle%3Darc%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-262%22%20y%3D%22-26.188679245283083%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22458%22%20y%3D%22164%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Ebaoc&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;fontColor=#000000;" vertex="1" connectable="0" parent="k5sNsXpFiTjpk9XiwPe8-36">
+          <mxGeometry x="-0.0304" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5sNsXpFiTjpk9XiwPe8-38" value="保存照片，视频，附件等&lt;br&gt;http/json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;fontColor=#000000;" vertex="1" connectable="0" parent="k5sNsXpFiTjpk9XiwPe8-36">
+          <mxGeometry x="0.0821" y="3" relative="1" as="geometry">
+            <mxPoint x="-47" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="涉案罚没财物管理APP" c4Type="Container" c4Technology="APP" c4Description="涉案罚没财物管理模块" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="k5sNsXpFiTjpk9XiwPe8-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#000000;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-            <mxGeometry x="-510" y="-120" width="240" height="120" as="geometry" />
+            <mxGeometry x="-532" y="-145" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="文件服务" c4Type="Container" c4Technology="SpringBoot" c4Description="使用mini-io提供统一文件和附件保存能" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="k5sNsXpFiTjpk9XiwPe8-32">
