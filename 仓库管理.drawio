@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T08:27:48.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Ic7Co-67lICFthVk94qV" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:39:37.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="FYLs8zmOlPOtL3nKsstK" version="20.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -198,10 +198,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N2B3vKRHUJC6ED7skFvD" name="涉案和罚没物资管理模块C4设计图">
-    <mxGraphModel dx="1406" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Container name" c4Type="Container" c4Technology="e.g. SpringBoot, ElasticSearch, etc." c4Description="Description of container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="bGjo0N-ikjiotVUOWVIY-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#000000;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="-58" y="221" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
