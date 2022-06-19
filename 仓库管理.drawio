@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T04:42:22.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="-ge0-dm8gUPjigK0WHnO" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-19T04:44:38.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="ihBpkF-QNi-T7qCynnS-" version="20.0.1" type="github" pages="5">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -392,8 +392,25 @@
         <mxCell id="3NmFoS6Y1uMZnZRe4MPr-2" value="外勤人员" style="swimlane;startSize=20;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="3NmFoS6Y1uMZnZRe4MPr-1">
           <mxGeometry y="20" width="206" height="503" as="geometry" />
         </mxCell>
+        <mxCell id="3NmFoS6Y1uMZnZRe4MPr-13" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jumpStyle=arc;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="3NmFoS6Y1uMZnZRe4MPr-2" source="3NmFoS6Y1uMZnZRe4MPr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91.5" y="101.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NmFoS6Y1uMZnZRe4MPr-19" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jumpStyle=arc;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="3NmFoS6Y1uMZnZRe4MPr-2" source="3NmFoS6Y1uMZnZRe4MPr-5" target="3NmFoS6Y1uMZnZRe4MPr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3NmFoS6Y1uMZnZRe4MPr-5" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;" vertex="1" parent="3NmFoS6Y1uMZnZRe4MPr-2">
-          <mxGeometry x="57" y="48" width="71" height="43" as="geometry" />
+          <mxGeometry x="56" y="50" width="71" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="3NmFoS6Y1uMZnZRe4MPr-21" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jumpStyle=arc;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="3NmFoS6Y1uMZnZRe4MPr-2" source="3NmFoS6Y1uMZnZRe4MPr-18" target="3NmFoS6Y1uMZnZRe4MPr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NmFoS6Y1uMZnZRe4MPr-18" value="填写入库清单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;" vertex="1" parent="3NmFoS6Y1uMZnZRe4MPr-2">
+          <mxGeometry x="43.5" y="141" width="96" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="3NmFoS6Y1uMZnZRe4MPr-20" value="打印入库清单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;" vertex="1" parent="3NmFoS6Y1uMZnZRe4MPr-2">
+          <mxGeometry x="44" y="209" width="96" height="31" as="geometry" />
         </mxCell>
         <mxCell id="3NmFoS6Y1uMZnZRe4MPr-3" value="运输人员" style="swimlane;startSize=20;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="3NmFoS6Y1uMZnZRe4MPr-1">
           <mxGeometry x="206" y="20" width="196" height="503" as="geometry" />
