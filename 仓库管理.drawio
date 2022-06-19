@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T03:38:38.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="AM9zSY4byWA3mfutGkxA" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-19T03:46:12.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Ec1aq6I4OcWhbv8iig7L" version="20.0.1" type="github" pages="3">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -198,14 +198,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N2B3vKRHUJC6ED7skFvD" name="涉案和罚没物资管理模块C4设计图">
-    <mxGraphModel dx="4223" dy="2230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4748" dy="2516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k5sNsXpFiTjpk9XiwPe8-49" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jumpStyle=arc;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="k5sNsXpFiTjpk9XiwPe8-47" target="k5sNsXpFiTjpk9XiwPe8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k5sNsXpFiTjpk9XiwPe8-50" value="调用运输的接口实现运输&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;fontColor=#000000;" vertex="1" connectable="0" parent="k5sNsXpFiTjpk9XiwPe8-49">
+        <mxCell id="k5sNsXpFiTjpk9XiwPe8-50" value="调用运输的接口实现运输&lt;br&gt;http/json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Architects Daughter;fontColor=#000000;" vertex="1" connectable="0" parent="k5sNsXpFiTjpk9XiwPe8-49">
           <mxGeometry x="-0.0324" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
