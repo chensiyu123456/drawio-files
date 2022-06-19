@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T06:22:30.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="g5WT3DCK5euiBBBA2Jgs" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-19T06:23:42.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="q_oUBlqHzbWidauQd8F1" version="20.0.1" type="github" pages="5">
   <diagram id="3SRqZhgNDh1fxQBIlJOG" name="配置平台C4模型图">
     <mxGraphModel dx="3612" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -576,7 +576,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="651" y="335" />
-              <mxPoint x="651" y="760" />
+              <mxPoint x="651" y="773" />
             </Array>
           </mxGeometry>
         </mxCell>
