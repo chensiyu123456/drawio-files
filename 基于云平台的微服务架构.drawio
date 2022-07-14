@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T07:45:37.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SOTxyCcSSvSBDkRb_qyz" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:47:12.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wAwdT1_NHPt_mSjLmN66" version="20.1.1" type="github" pages="4">
   <diagram id="sDCAhfoBXWwCWuBo0Qwh" name="平台架构整体规划">
     <mxGraphModel dx="4324" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -841,7 +841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JeNq3dfaThJiHLVRP7Fs" name="Page-4">
-    <mxGraphModel dx="3356" dy="1289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2362" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,7 +1200,7 @@
           <mxGeometry x="-240" y="1546" width="89" height="126" as="geometry" />
         </mxCell>
         <mxCell id="ezXaZFjeA28eoTrA2EmU-89" value="VCS前端优化&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-165.0000000000001" y="1619" width="167" height="71" as="geometry" />
+          <mxGeometry x="-153.5000000000001" y="1615" width="167" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ezXaZFjeA28eoTrA2EmU-90" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="-165" y="1737" width="265" height="73" as="geometry" />
